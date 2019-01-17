@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/forcast/1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/forcast/data_raining.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lstm/1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/日值说明.txt" charset="GBK" />
+  </component>
+</project>
